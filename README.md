@@ -11,11 +11,11 @@
 [![GitHub user's stars](https://img.shields.io/github/stars/david-palma?style=social)](https://www.github.com/david-palma)
 [![GitHub followers](https://img.shields.io/github/followers/david-palma?style=social)](https://www.github.com/david-palma)<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e272c?&logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/david-palma/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1e272c?&logo=googlescholar&logoColor=4285F4&style=for-the-badge)](https://scholar.google.com/citations?user=D-RDccQAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-1e272c?&logo=orcid&logoColor=A6CE39&style=for-the-badge)](https://orcid.org/0000-0001-7821-5931)
-[![Academia](https://img.shields.io/badge/Academia-1e272c?&logo=academia&logoColor=white&style=for-the-badge)](https://uniud.academia.edu/DavidPalma)
-[![GitHub](https://img.shields.io/badge/GitHub-1e272c?&logo=github&logoColor=white&style=for-the-badge)](https://uniud.academia.edu/DavidPalma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?&logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/david-palma/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-24292e?&logo=googlescholar&logoColor=4285F4&style=for-the-badge)](https://scholar.google.com/citations?user=D-RDccQAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-24292e?&logo=orcid&logoColor=A6CE39&style=for-the-badge)](https://orcid.org/0000-0001-7821-5931)
+[![Academia](https://img.shields.io/badge/Academia-24292e?&logo=academia&logoColor=white&style=for-the-badge)](https://uniud.academia.edu/DavidPalma)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?&logo=github&logoColor=white&style=for-the-badge)](https://uniud.academia.edu/DavidPalma)
 
 </div>
 
